@@ -1,1 +1,1 @@
-# Math-game-
+The code is a Python console game in which the user selects a mathematical operation (addition, subtraction, multiplication, integer division) and solves randomly generated examples. In addition, game results are stored in a SQLite database.
